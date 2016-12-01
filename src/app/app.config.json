@@ -1,9 +1,9 @@
 {
-	"appname": "default access",
-	"scope": "FullAccess",
+	"appname": "default-access",
+	"scope": "FullAccess ProductAdmin BuyerAdmin BuyerReader",
 	"clientid": "A8ED9397-2A88-4045-B2A5-F90083617E42",
 	"buyerid": "abc123123",
-	"catalogid": "abc123123",
+	"catalogid": null,
 	"environment": "prod",
 	"anonymous": false,
 	"base": {
